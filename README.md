@@ -4,9 +4,9 @@
 
 This repo contains code for analysing historical traffic accident data in the city of Kaohsiung, Taiwan.\
 \
-We used A1/A2 type accidents data that occured in 2020 sourced from [Taiwan's government open data initiative](https://data.gov.tw/en/datasets/12197).\
+We used A1/A2 type accidents data that occured in 2020 sourced from [Taiwan's government open data initiative](https://data.gov.tw/en/datasets/12197).
 
-A_VOID brings two main contributions:\
+A_VOID brings two main contributions:
 ### Crowdsourced Sidewalk Issues Reporting 
 Sidewalks in Kaohsiung are busy, leading to challenges in pedestrian movement and leading to unsafe transportation.\
 \
