@@ -1,9 +1,10 @@
 # HackYourDistrict Project - A_VOID
 ## A crowdsourced, AI-powered platform for traffic accident prevention and sidewalk monitoring
+![a_void](https://github.com/epz0/HYD_a_void/blob/main/images/aviod.jpg?raw=true)
 
-This repo contains code for analysing historical traffic accident data in the city of Kaohsiung, Taiwan.\\
-
-We used A1/A2 type accidents data that occured in 2020 sourced from [Taiwan's government open data initiative](https://data.gov.tw/en/datasets/12197).\\
+This repo contains code for analysing historical traffic accident data in the city of Kaohsiung, Taiwan.\
+\
+We used A1/A2 type accidents data that occured in 2020 sourced from [Taiwan's government open data initiative](https://data.gov.tw/en/datasets/12197).\
 
 A_VOID brings two main contributions:\
 ### Crowdsourced Sidewalk Issues Reporting 
@@ -15,4 +16,6 @@ A_VOID allows users to report issues with the sidewalks in the city, adding imag
 Research shows that for each accident with a fatal victim or serious injury, hundreds of other incidents happen. If we can track the incidents before they become accidents we can be more proactive with road safety. \\
 
 A_VOID allows users to submit near misses and incidents that happened to them. Adding a picture, description and location. This allows policy makers to better identify areas of worry before major accidents happen. 
+
+![HYD](https://github.com/epz0/HYD_a_void/raw/refs/heads/main/images/Logo_HackYourDistrict.webp)
 
