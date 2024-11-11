@@ -18,7 +18,8 @@ Research shows that for each accident with a fatal victim or serious injury, hun
 A_VOID allows users to submit near misses and incidents that happened to them. Adding a picture, description and location. This allows policy makers to better identify areas of worry before major accidents happen. \
 
 ### [#HackYourDistrict 2024](https://www.tu.berlin/en/arte/research/projects/hackyourdistrict/hackyourdistrict-2024)
-This project was developed as part of the #HackYourDistrict 2024 - Open Data and Open Tools for a Net-Zero Urban Transport conference organised by TU Berlin in Kaohsiung, Taiwan.\ *A_void was chosen as the best project of the hackathon*, by a panel of academic experts and specialists from the city's Transportation Bureau.
+This project was developed as part of the #HackYourDistrict 2024 - Open Data and Open Tools for a Net-Zero Urban Transport conference organised by TU Berlin in Kaohsiung, Taiwan.\
+**A_void was chosen as the best project of the hackathon**, by a panel of academic experts and specialists from the city's Transportation Bureau.
 
 ![HYD](https://github.com/epz0/HYD_a_void/raw/refs/heads/main/images/Logo_HackYourDistrict.webp)
 
